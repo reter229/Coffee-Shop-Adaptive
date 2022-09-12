@@ -2565,7 +2565,7 @@
         effect: "slide",
         breakpoints: void 0,
         breakpointsBase: "window",
-        spaceBetween: 10,
+        spaceBetween: 0,
         slidesPerView: 1,
         slidesPerGroup: 1,
         slidesPerGroupSkip: 0,
